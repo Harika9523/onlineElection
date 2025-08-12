@@ -26,5 +26,5 @@ jobs:
           # Your build and restart commands below, example:
           # npm install
           # npm run build
-          # pm2 restart your-app
+          # pm2 restart all
         EOF
