@@ -5,6 +5,9 @@ A comprehensive digital voting platform designed for campus elections, built wit
 ## 🌐 Live Application
 
 **Production URL**: [http://3.26.177.199:3000/login](http://3.26.177.199:3000/login)
+for admin- its
+username - admin@gmail.com
+password - admin123
 
 ## 📋 Project Management
 
@@ -547,3 +550,4 @@ For support and questions:
 - ✅ CI/CD pipeline with GitHub Actions
 - ✅ Cloud deployment on AWS EC2
 - ✅ Agile project management with JIRA
+
